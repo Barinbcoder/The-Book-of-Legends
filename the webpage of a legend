@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+<meta name="viewport" content="width=device-width", initial-scale="1.0">
+<link rel="stylesheet" href="styles.css" />
+<title>matthews book</title>
+</head>
+<body>
+  
+<h1>The book of legends</h1> 
+<h2>Matthew:</h2>
+<P>This book is to show the amazing achievements that Matthew had throughout his life.</P>
+<p>Matthew was a legendary hero that saved the world from a very bad scary threat.</p>
+
+<h3>Rules that matthew lives by:</h3>
+
+<ol>
+  <li>respect your parents</li>
+  <li>help others in need</li>
+  <li>do the right thing</li>
+  <li>make sure to work hard and earn money</li>
+</ol>
+
+<style>
+  body{
+    
+    background-color:orange;
+  }
+  
+  h1 {
+    font-size: 40px;
+  }
+  
+  h2 {
+    font-size: 40px;
+  }
+  
+  p {
+    font-size: 40px;
+  }
+
+h3 {
+  font-size: 40px;
+}  
+
+ol {
+  font-size: 40px;
+  
+}
+
+body{
+  font-family:Sans-Serif;
+  
+}
+</style>
+</body>
